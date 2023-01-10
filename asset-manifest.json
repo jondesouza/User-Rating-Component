@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/jondesouza/User-Rating-Component.git/static/css/main.a6e3dbe1.css",
-    "main.js": "/jondesouza/User-Rating-Component.git/static/js/main.024dcd0f.js",
-    "static/js/787.f80a0838.chunk.js": "/jondesouza/User-Rating-Component.git/static/js/787.f80a0838.chunk.js",
-    "static/media/Overpass-VariableFont_wght.ttf": "/jondesouza/User-Rating-Component.git/static/media/Overpass-VariableFont_wght.77b8fb6d913d0143a11f.ttf",
-    "static/media/illustration.svg": "/jondesouza/User-Rating-Component.git/static/media/illustration.d74a66b551b99ae110b5362ed63106bf.svg",
-    "index.html": "/jondesouza/User-Rating-Component.git/index.html",
-    "static/media/iconstar.svg": "/jondesouza/User-Rating-Component.git/static/media/iconstar.12766a8d207af861a70f92500634c8be.svg",
-    "main.a6e3dbe1.css.map": "/jondesouza/User-Rating-Component.git/static/css/main.a6e3dbe1.css.map",
-    "main.024dcd0f.js.map": "/jondesouza/User-Rating-Component.git/static/js/main.024dcd0f.js.map",
-    "787.f80a0838.chunk.js.map": "/jondesouza/User-Rating-Component.git/static/js/787.f80a0838.chunk.js.map"
+    "main.css": "/User-Rating-Component/static/css/main.56288489.css",
+    "main.js": "/User-Rating-Component/static/js/main.da87adce.js",
+    "static/js/787.f80a0838.chunk.js": "/User-Rating-Component/static/js/787.f80a0838.chunk.js",
+    "static/media/Overpass-VariableFont_wght.ttf": "/User-Rating-Component/static/media/Overpass-VariableFont_wght.77b8fb6d913d0143a11f.ttf",
+    "static/media/illustration.svg": "/User-Rating-Component/static/media/illustration.d74a66b551b99ae110b5362ed63106bf.svg",
+    "index.html": "/User-Rating-Component/index.html",
+    "static/media/iconstar.svg": "/User-Rating-Component/static/media/iconstar.12766a8d207af861a70f92500634c8be.svg",
+    "main.56288489.css.map": "/User-Rating-Component/static/css/main.56288489.css.map",
+    "main.da87adce.js.map": "/User-Rating-Component/static/js/main.da87adce.js.map",
+    "787.f80a0838.chunk.js.map": "/User-Rating-Component/static/js/787.f80a0838.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6e3dbe1.css",
-    "static/js/main.024dcd0f.js"
+    "static/css/main.56288489.css",
+    "static/js/main.da87adce.js"
   ]
 }
